@@ -25,6 +25,8 @@ struct Barang {
 };
 ```
 
+---
+
 ## 🔧 Fungsi
 
 ```cpp
@@ -36,6 +38,7 @@ int hitungTotalHarga(string namaBarang, int jumlahBarang);
 
 ## 💡 Contoh Output
 
+```markdown
 Daftar Barang :
 1. Baju          -> Rp. 100000
 2. Celana        -> Rp. 75000
@@ -47,6 +50,7 @@ Masukkan nama barang yang akan dibeli      : Baju
 Masukkan jumlah barang yang akan dibeli    : 2
 
 Total harga yang harus dibayar : Rp. 200000
+```
 
 ---
 
